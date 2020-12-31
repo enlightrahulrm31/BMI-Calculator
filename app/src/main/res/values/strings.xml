@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">CheckFrag</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="age">Enter Your Weight in (kg)</string>
+    <string name="Height">Enter Height in (cm)</string>
+    <string name="info">"Body mass index, or BMI, is a measure of body size. It combines a person’s weight with their height. The results of a BMI measurement can give an idea about whether a person has the correct weight for their height.  \n\nBMI is a screening tool that can indicate whether a person is underweight or if they have a healthy weight, excess weight, or obesity.\n\nCarrying too much weight can lead to a variety of health conditions, such as type 2 diabetes, high blood pressure, and cardiovascular problems.  \n\nA weigh that is too low can increase the risk of malnutrition, osteoporosis, and anemia. The doctor will make suitable recommendations.  \n\nBMI does not measure body fat directly, and it does not account for age, sex, ethnicity, or muscle mass in adults.  \n\nHowever, it uses standard weight status categories that can help doctors to track weight status across populations and identify potential issues in individuals.\" "</string>
+</resources>
